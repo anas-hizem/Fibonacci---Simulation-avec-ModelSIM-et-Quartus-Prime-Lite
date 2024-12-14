@@ -171,7 +171,3 @@ Une fois la simulation effectuée, vous pouvez générer la netlist à partir de
 ## Conclusion
 
 Ce laboratoire permet de comprendre la conception d'un calculateur de Fibonacci en utilisant VHDL et une machine à états. Grâce à la simulation, vous pouvez observer le comportement du module dans différents états et valider la fonctionnalité du calcul de Fibonacci.
-
----
-
-Téléchargez ce fichier README pour plus de détails et de ressources.
