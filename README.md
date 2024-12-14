@@ -159,14 +159,8 @@ Le chronogramme montre l'évolution des signaux dans le temps lors de la simulat
 - **done_tick** : Indicateur que le calcul est terminé.
 - **f** : Résultat de Fibonacci en sortie.
 
-Le chronogramme peut être généré en utilisant ModelSIM pour observer l'évolution des signaux au cours de l'exécution du testbench.
+![Capture d'écran 2024-12-14 151347](https://github.com/user-attachments/assets/afb98209-d26d-4c58-b3f9-4b7d1b77612a)
 
-### Compilation et Simulation
-
-1. **Compiler** : Utilisez Quartus Prime Lite pour compiler les fichiers VHDL.
-2. **Simulation** : Utilisez ModelSIM pour simuler le testbench et observer le chronogramme.
-   - Assurez-vous que les fichiers VHDL et le testbench sont ajoutés à votre projet dans ModelSIM.
-   - Exécutez la simulation pour voir les signaux dans le chronogramme.
 
 ### Netlist
 
