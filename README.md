@@ -166,6 +166,8 @@ Le chronogramme montre l'évolution des signaux dans le temps lors de la simulat
 
 Une fois la simulation effectuée, vous pouvez générer la netlist à partir de Quartus Prime Lite pour vérifier la structure de votre conception. La netlist montre les connexions des composants et est utilisée pour la mise en œuvre du design sur du matériel.
 
+![Capture d'écran 2024-12-14 152901](https://github.com/user-attachments/assets/aea8d79a-a173-4747-a96b-6a322f5bc42b)
+
 ## Conclusion
 
 Ce laboratoire permet de comprendre la conception d'un calculateur de Fibonacci en utilisant VHDL et une machine à états. Grâce à la simulation, vous pouvez observer le comportement du module dans différents états et valider la fonctionnalité du calcul de Fibonacci.
