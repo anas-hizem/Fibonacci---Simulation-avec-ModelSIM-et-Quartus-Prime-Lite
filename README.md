@@ -1,5 +1,5 @@
 
-# Projet : Série de Fibonacci - Simulation avec ModelSIM et Quartus Prime Lite
+# Série de Fibonacci - Simulation avec ModelSIM et Quartus Prime Lite
 
 ## Description
 
